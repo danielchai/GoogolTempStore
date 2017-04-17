@@ -1,0 +1,31 @@
+PLC_PRG_TASK
+	Inputs:  6
+		Offset    Size
+		       0,        2
+		       5,        4
+		       9,        4
+		      29,        2
+		      34,        4
+		      38,        4
+	Outputs: 8
+		Offset    Size
+		       0,        2
+		       3,        4
+		       7,        4
+		      11,        4
+		      21,        2
+		      24,        4
+		      28,        4
+		      32,        4
+VISU_TASK
+	Inputs:  2
+		Offset    Size
+		       9,        4
+		      38,        4
+	Outputs: 0
+SensorRead
+	Inputs:  0
+	Outputs: 0
+VISU_INPUT_TASK
+	Inputs:  0
+	Outputs: 0
