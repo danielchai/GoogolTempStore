@@ -1,3 +1,2 @@
-506035
-c:\users\adu\desktop\程序新结构\2017-4-12\plc_open_testvis.txt
-This is a test
+99893
+c:\program files (x86)\googol\codesys v2.3\compile\plc_open_testvis.txt
